@@ -1,5 +1,5 @@
 # Script | Merge Latest Remote Branch Into Current Branch 
-While working in feature branches, We're often required to update our feature branches with `main` or a source branch. Script automates the process instead of having to write git commands everytime.
+While working in feature branches, We're often required to update our feature branches with `main` or a source branch. Instead of having to write git commands everytime, the script automates the process.
 Script to automatically merge remote branch into current branch instead of having to type all commands separately. 
 
 # To Run: 
